@@ -1,8 +1,27 @@
 aid: ping-an-good-doctor
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ping-an-good-doctor.png
 name: Ping An Good Doctor
-description: 'Ping An Good Doctor is a company surfaced as a portfolio company of idg-capital, softbank-vision-fund
-  and added to the API Evangelist network as a stub for enrichment. Sector: healthcare. This profile is
-  a lead awaiting the enrichment pipeline.'
+description: 'Ping An Good Doctor (Ping An Healthcare and Technology Company Limited, since rebranded
+  Ping An Health, HKEX: 1833) is the online-healthcare arm of China''s Ping An Insurance Group and one
+  of the country''s largest one-stop online healthcare platforms. Through its consumer app it offers
+  online medical consultations delivered by an in-house medical team and AI triage, family-doctor
+  memberships, a health mall for pharmaceutical and wellness e-commerce, and health-management and
+  chronic-disease services. The platform serves individual consumers as well as enterprise and financial
+  channels across China. As surfaced to the API Evangelist network it is a consumer/enterprise app
+  business with no public developer API program: enrichment found no developer portal, OpenAPI, SDKs, or
+  open-platform documentation, and the historical corporate domain (pahtg.com) now resolves to a parked
+  landing page.'
 url: https://raw.githubusercontent.com/api-evangelist/ping-an-good-doctor/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,11 +32,22 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Healthcare
+- Digital Health
+- Telemedicine
+- Online Consultations
+- Health E-Commerce
+- China
+- Ping An
 apis: []
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
