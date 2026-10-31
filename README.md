@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ping An Good Doctor is a company surfaced as a portfolio company of idg-capital, softbank-vision-fund and added to the API Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting the enrichment pipeline.
+Ping An Good Doctor (Ping An Healthcare and Technology Company Limited, since rebranded Ping An Health, HKEX: 1833) is the online-healthcare arm of China's Ping An Insurance Group and one of the country's largest one-stop online healthcare platforms. Through its consumer app it offers online medical consultations delivered by an in-house medical team and AI triage, family-doctor memberships, a health mall for pharmaceutical and wellness e-commerce, and health-management and chronic-disease services. The platform serves individual consumers as well as enterprise and financial channels across China. As surfaced to the API Evangelist network it is a consumer/enterprise app business with no public developer API program: enrichment found no developer portal, OpenAPI, SDKs, or open-platform documentation, and the historical corporate domain (pahtg.com) now resolves to a parked landing page.
 
-Backed by: idg-capital, softbank-vision-fund
+**Areas:** Company · Healthcare · Digital Health · Telehealth · Online Consultations · Health E-Commerce · China · Ping An
+
+## Ping An Good Doctor on APIs.io
+
+Everything profiled for Ping An Good Doctor is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ping-an-good-doctor/](https://apis.io/providers/ping-an-good-doctor/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ping An Good Doctor: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ping-an-good-doctor/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
